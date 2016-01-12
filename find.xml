@@ -1,0 +1,41 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Custom" />
+    <option name="defaultScopeName" value="Custom" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Custom" />
+    <recentFileMasks>
+      <mask>*.drush.inc</mask>
+      <mask>*.yml</mask>
+      <mask>*services..yml</mask>
+      <mask>*services.yml</mask>
+      <mask>*.theme</mask>
+      <mask>*.twig</mask>
+      <mask>*.strongarm*</mask>
+      <mask>page-inner*.tpl.php</mask>
+      <mask>*.field_instance.inc</mask>
+      <mask>*scss</mask>
+      <mask>*css</mask>
+      <mask>*.tpl.php</mask>
+      <mask>*.fieldgroup.inc</mask>
+      <mask>*.field_group.inc</mask>
+      <mask>*.field.in</mask>
+      <mask>*.field.inc,*.info</mask>
+      <mask>*.inc</mask>
+      <mask>*.field.inc</mask>
+      <mask>*.strongarm.inc</mask>
+      <mask>*.module</mask>
+      <mask>*.css</mask>
+      <mask>*.js</mask>
+      <mask>*.admin.inc</mask>
+      <mask>*.variable.inc</mask>
+      <mask>*.test</mask>
+      <mask>*.info</mask>
+      <mask>*.install</mask>
+      <mask>*.views_default.inc</mask>
+      <mask>*.tile.inc</mask>
+      <mask>*.scss</mask>
+    </recentFileMasks>
+  </component>
+</application>

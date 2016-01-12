@@ -1,0 +1,21 @@
+<templateSet group="user">
+  <template name="hook_field_attach_view_alter" value="/**&#10; * Implements hook_field_attach_view_alter().&#10; *&#10; * @param $output&#10; *   The structured content array tree for all of the entity's fields.&#10; * @param $context&#10; *   An associative array containing:&#10; *   - entity_type: The type of $entity; for example, 'node' or 'user'.&#10; *   - entity: The entity with fields to render.&#10; *   - view_mode: View mode; for example, 'full' or 'teaser'.&#10; *   - display: Either a view mode string or an array of display settings. If&#10; *     this hook is being invoked from field_attach_view(), the 'display'&#10; *     element is set to the view mode string. If this hook is being invoked&#10; *     from field_view_field(), this element is set to the $display argument&#10; *     and the view_mode element is set to '_custom'. See field_view_field()&#10; *     for more information on what its $display argument contains.&#10; *   - language: The language code used for rendering.&#10; */&#10;function $module$_field_attach_view_alter(&amp;$output, $context) {&#10;  $END$&#10;}" description="Implements hook_field_attach_view_alter()." toReformat="true" toShortenFQNames="true">
+    <variable name="module" expression="firstWord(fileNameWithoutExtension())" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="SQL" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="PHP" value="true" />
+      <option name="HAML" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+</templateSet>

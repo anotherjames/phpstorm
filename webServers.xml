@@ -1,0 +1,33 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4e3b2132-61c0-4409-a19c-f1dfa16024ae" name="LeBoat" url="http://leboat.tui.drupal">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="a32f9ad9-7370-4a62-aa34-9af29b99473d" name="PetNet" url="http://prova.freshnetworks.drupal/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="30ca9d52-a2d4-4f4b-a2c2-5614257cab2e" name="d714.drupal" url="http://d714.drupal/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="8835b4c2-35a9-4f8a-9eb4-561c1e5a0079" name="mcia.freshnetworks.drupal" url="http://mcia.freshnetworks.drupal/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="4ade0934-5ac6-4400-8133-824386dee236" name="wimbledon.tui.drupal" url="http://wimbledon.tui.drupal/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="bb623eba-6cbc-4351-a6f4-c1b40dc8d7d8" name="GLA" url="http://gla.freshnetworks.drupal">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="e5d80793-a375-4001-8156-5d3a35a1ffe4" name="Domino" url="http://domino.tui.drupal">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="42e58d20-8e47-47be-af0b-8db4e0c17679" name="Gullivers" url="http://gullivers.tui.drupal">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="bb37ba87-e2a5-4408-9008-4a1736e05400" name="GLA (1)" url="http://gla.freshnetworks.drupal">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

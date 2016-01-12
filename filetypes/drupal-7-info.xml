@@ -1,0 +1,21 @@
+<filetype binary="false" description="Drupal 7 - Info" name="drupal-7-info">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value=";" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACKETS" value="true" />
+      <option name="HAS_STRING_ESCAPES" value="true" />
+      <option name="LINE_COMMENT_AT_START" value="true" />
+    </options>
+    <keywords keywords="api;base;configure;core;css;dependencies;description;download;engine;features;files;grids;l10n;name;package;path;php;plugins;project;regions;screenshot;scripts;server;settings;stylesheets;subdir;tag;theme;url;version;zones" ignore_case="false" />
+    <keywords2 keywords="[;];libraries;projects" />
+    <keywords3 keywords="bean_type;cer;context;ctools;current_search;eck_bundle;eck_entity_type;facetapi;features_api;feeds_importer;field;field_group;file_display;filter;image;menu_custom;node;page_manager_handlers;page_manager_pages;panels_mini;search_api_index;search_api_server;taxonomy;variable;views_view;wysiwyg" />
+    <keywords4 keywords="=;directory_name;patch;revision;type" />
+  </highlighting>
+  <extensionMap>
+    <mapping ext="make" />
+  </extensionMap>
+</filetype>

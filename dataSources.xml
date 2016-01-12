@@ -1,0 +1,16 @@
+<application>
+  <component name="dataSourceStorage" format="xml">
+    <data-source source="LOCAL" name="MySQL Databases (JW's parrot)" uuid="6b2dd2c9-0237-4847-a97a-b94932e9283c">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost</jdbc-url>
+      <default-dialect>MySQL</default-dialect>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/work/phpstorm/mysql-connector-java-5.1.22-bin.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</application>
