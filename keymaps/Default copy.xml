@@ -10,18 +10,48 @@
     <keyboard-shortcut first-keystroke="ctrl meta alt w" />
   </action>
   <action id="Console.TableResult.EditValue">
-    <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="enter" />
   </action>
+  <action id="Console.TableResult.NavigateAction">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="DomCollectionControl.Edit">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="DomElementsTreeView.GotoDomElementDeclarationAction">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="DumpLookupElementWeights" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="EditorSelectWord" />
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta end" />
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta home" />
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="EditorUnSelectWord" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="GotoNextError" />
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="shift f2" />
+  </action>
+  <action id="GotoPreviousError" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
+  <action id="Jdbc.OpenTableEditor">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="ctrl down" />
     <keyboard-shortcut first-keystroke="alt down" />
@@ -49,8 +79,18 @@
     <mouse-shortcut keystroke="control button2" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="RemoteHostView.EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="ShowIntentionActions" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
+  </action>
 </keymap>
