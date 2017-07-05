@@ -1,5 +1,5 @@
 <scheme name="Blackboard (James)" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="FONT_SCALE" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="CONSOLE_FONT_NAME" value="Inconsolata" />
   <option name="CONSOLE_LINE_SPACING" value="1.3" />
@@ -28,7 +28,6 @@
     <option name="WHITESPACES" value="484b58" />
   </colors>
   <attributes>
-    <option name="ABSTRACT_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="APACHE_CONFIG.ARG_LEXEM">
       <value>
         <option name="FOREGROUND" value="61ce3c" />
@@ -48,6 +47,34 @@
       <value>
         <option name="FOREGROUND" value="ab2a1d" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="699fff" />
+        <option name="BACKGROUND" value="42029" />
+        <option name="EFFECT_COLOR" value="aeaead" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="bdb65c" />
+        <option name="BACKGROUND" value="42029" />
+        <option name="EFFECT_COLOR" value="aeaead" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_HOVERED">
+      <value>
+        <option name="FOREGROUND" value="42029" />
+        <option name="BACKGROUND" value="bdb65c" />
+        <option name="EFFECT_COLOR" value="aeaead" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_INACTIVE">
+      <value>
+        <option name="FOREGROUND" value="aeaead" />
+        <option name="BACKGROUND" value="42029" />
+        <option name="EFFECT_COLOR" value="aeaead" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -213,7 +240,6 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
-    <option name="CONSOLE_RANGE_TO_EXECUTE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
         <option name="FOREGROUND" value="e4e4ff" />
@@ -479,7 +505,6 @@
         <option name="BACKGROUND" value="30322b" />
       </value>
     </option>
-    <option name="ENUM_NAME_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ff6767" />
@@ -639,7 +664,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="INHERITED_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="273627" />
@@ -1419,7 +1443,6 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="b0bfbf" />
