@@ -46,7 +46,9 @@
     <mouse-shortcut keystroke="button5" />
   </action>
   <action id="GotoChangedFile" />
-  <action id="GotoClass" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="ctrl meta o" />
+  </action>
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
