@@ -12,6 +12,10 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="ctrl meta alt w" />
   </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
@@ -54,6 +58,12 @@
   <action id="GotoPreviousError" />
   <action id="GotoSuperMethod" />
   <action id="GotoTest" />
+  <action id="HippieBackwardCompletion">
+    <keyboard-shortcut first-keystroke="shift ctrl space" />
+  </action>
+  <action id="HippieCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
   <action id="Images.ShowThumbnails" />
   <action id="Jdbc.OpenTableEditor">
     <keyboard-shortcut first-keystroke="f4" />
@@ -101,6 +111,10 @@
   <action id="ShowIntentionActions" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
+  </action>
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift ctrl space" />
+    <keyboard-shortcut first-keystroke="shift alt slash" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta u" />
