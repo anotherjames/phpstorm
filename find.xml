@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Custom" />
-    <option name="defaultScopeName" value="Custom" />
-    <option name="SEARCH_SCOPE" value="Custom" />
+    <option name="customScope" value="Contrib" />
+    <option name="defaultScopeName" value="Contrib" />
+    <option name="SEARCH_SCOPE" value="Contrib" />
     <recentFileMasks>
       <mask>*.drush.inc</mask>
       <mask>*.yml</mask>
