@@ -119,6 +119,11 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
+  <action id="com.andrewbrookins.idea.wrap.WrapAction">
+    <keyboard-shortcut first-keystroke="shift ctrl meta w" />
+    <keyboard-shortcut first-keystroke="shift meta alt w" />
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
 </keymap>
