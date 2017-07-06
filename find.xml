@@ -1,13 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Custom" />
-    <option name="defaultScopeName" value="Custom" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Custom" />
+    <option name="customScope" value="Core" />
+    <option name="defaultScopeName" value="Core" />
+    <option name="SEARCH_SCOPE" value="Core" />
     <recentFileMasks>
       <mask>*.drush.inc</mask>
-      <mask>*.yml</mask>
       <mask>*services..yml</mask>
       <mask>*services.yml</mask>
       <mask>*.theme</mask>
@@ -36,6 +33,7 @@
       <mask>*.views_default.inc</mask>
       <mask>*.tile.inc</mask>
       <mask>*.scss</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
