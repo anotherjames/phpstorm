@@ -4,11 +4,6 @@
     <option name="defaultScopeName" value="Custom" />
     <option name="SEARCH_SCOPE" value="Custom" />
     <recentFileMasks>
-      <mask>*.drush.inc</mask>
-      <mask>*services..yml</mask>
-      <mask>*services.yml</mask>
-      <mask>*.theme</mask>
-      <mask>*.twig</mask>
       <mask>*.strongarm*</mask>
       <mask>page-inner*.tpl.php</mask>
       <mask>*.field_instance.inc</mask>
@@ -34,6 +29,11 @@
       <mask>*.tile.inc</mask>
       <mask>*.scss</mask>
       <mask>*.yml</mask>
+      <mask>*.a</mask>
+      <mask>*.ap</mask>
+      <mask>*.api</mask>
+      <mask>*.api.</mask>
+      <mask>*.api.php</mask>
     </recentFileMasks>
   </component>
 </application>

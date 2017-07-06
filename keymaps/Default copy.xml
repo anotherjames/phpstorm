@@ -37,6 +37,8 @@
   <action id="Console.TableResult.NavigateAction">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="CopyPaths" />
+  <action id="DatabaseView.CopyDdlAction" />
   <action id="Diff.UpdatedFiles">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
@@ -148,6 +150,9 @@
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl meta alt h" />
+  </action>
+  <action id="XDebugger.CopyName">
+    <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
   <action id="com.andrewbrookins.idea.wrap.WrapAction">
     <keyboard-shortcut first-keystroke="shift ctrl meta w" />
