@@ -1,7 +1,20 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="ActivateEventLogToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="ChangesView.Revert">
+    <keyboard-shortcut first-keystroke="meta alt z" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt v" />
   </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="meta alt w" />
@@ -15,11 +28,17 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="ctrl meta alt d" />
+  </action>
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="Console.TableResult.NavigateAction">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Diff.UpdatedFiles">
+    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="DomCollectionControl.Edit">
     <keyboard-shortcut first-keystroke="f4" />
@@ -31,6 +50,7 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="EditorAddOrRemoveCaret" />
   <action id="EditorSelectWord" />
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta end" />
@@ -95,6 +115,7 @@
     <keyboard-shortcut first-keystroke="ctrl j" />
     <mouse-shortcut keystroke="control button2" />
     <keyboard-shortcut first-keystroke="alt enter" />
+    <mouse-shortcut keystroke="alt button1" />
   </action>
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="ctrl meta alt o" />
@@ -109,6 +130,9 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
+  <action id="ShelvedChanges.Diff">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
   <action id="ShowIntentionActions" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
@@ -119,10 +143,19 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
+  <action id="Vcs.Log.ShowDiff">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="ctrl meta alt h" />
+  </action>
   <action id="com.andrewbrookins.idea.wrap.WrapAction">
     <keyboard-shortcut first-keystroke="shift ctrl meta w" />
     <keyboard-shortcut first-keystroke="shift meta alt w" />
     <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="openAssertEqualsDiff">
+    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
