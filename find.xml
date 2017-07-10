@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Custom" />
-    <option name="defaultScopeName" value="Custom" />
+    <option name="customScope" value="Contrib" />
+    <option name="defaultScopeName" value="Contrib" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Custom" />
+    <option name="SEARCH_SCOPE" value="Contrib" />
     <recentFileMasks>
       <mask>*.strongarm*</mask>
       <mask>page-inner*.tpl.php</mask>
