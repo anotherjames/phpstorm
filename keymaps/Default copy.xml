@@ -146,6 +146,9 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
   <action id="ShelvedChanges.Diff">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
