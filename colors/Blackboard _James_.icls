@@ -49,6 +49,20 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
+    <option name="BASH.INTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="ae9ef2" />
+      </value>
+    </option>
+    <option name="BASH.REDIRECTION">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="BREADCRUMBS_CURRENT">
       <value>
         <option name="FOREGROUND" value="699fff" />
@@ -402,9 +416,15 @@
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_INVALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="d8fa3c" />
+        <option name="BACKGROUND" value="7f6464" />
+      </value>
+    </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="7f7f" />
+        <option name="FOREGROUND" value="bdb65c" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -431,11 +451,17 @@
         <option name="FOREGROUND" value="c7cf59" />
       </value>
     </option>
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="61ce3c" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_TAG" baseAttributes="TEXT" />
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="56bb6b" />
+        <option name="FOREGROUND" value="d8fa3c" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -574,6 +600,11 @@
     <option name="GHERKIN_TAG">
       <value>
         <option name="FOREGROUND" value="fbde2d" />
+      </value>
+    </option>
+    <option name="GOTO_LABEL">
+      <value>
+        <option name="FOREGROUND" value="699fff" />
       </value>
     </option>
     <option name="GQL_KEYWORD">
@@ -907,6 +938,12 @@
         <option name="FOREGROUND" value="61ce3c" />
       </value>
     </option>
+    <option name="MAGIC_MEMBER_ACCESS">
+      <value>
+        <option name="FOREGROUND" value="56bb6b" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="1d637f" />
@@ -921,6 +958,17 @@
       <value>
         <option name="FOREGROUND" value="ab2a1d" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_BRACES">
+      <value />
+    </option>
+    <option name="PHP_BRACKETS">
+      <value />
+    </option>
+    <option name="PHP_CLASS">
+      <value>
+        <option name="FOREGROUND" value="699fff" />
       </value>
     </option>
     <option name="PHP_COMMA">
@@ -948,12 +996,19 @@
     </option>
     <option name="PHP_ESCAPE_SEQUENCE">
       <value>
-        <option name="FOREGROUND" value="b4ff26" />
+        <option name="FOREGROUND" value="d8fa3c" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PHP_EXEC_COMMAND_ID">
+    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
+    <option name="PHP_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="b4ff26" />
+        <option name="FOREGROUND" value="699fff" />
+      </value>
+    </option>
+    <option name="PHP_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="699fff" />
       </value>
     </option>
     <option name="PHP_HEREDOC_CONTENT">
@@ -967,6 +1022,21 @@
       </value>
     </option>
     <option name="PHP_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="699fff" />
+      </value>
+    </option>
+    <option name="PHP_INSTANCE_FIELD">
+      <value>
+        <option name="FOREGROUND" value="699fff" />
+      </value>
+    </option>
+    <option name="PHP_INSTANCE_METHOD">
+      <value>
+        <option name="FOREGROUND" value="699fff" />
+      </value>
+    </option>
+    <option name="PHP_INTERFACE">
       <value>
         <option name="FOREGROUND" value="699fff" />
       </value>
@@ -997,6 +1067,9 @@
         <option name="FOREGROUND" value="bdb65c" />
       </value>
     </option>
+    <option name="PHP_PARENTHESES">
+      <value />
+    </option>
     <option name="PHP_PREDEFINED SYMBOL">
       <value>
         <option name="FOREGROUND" value="ae9ef2" />
@@ -1005,9 +1078,20 @@
     <option name="PHP_SEMICOLON">
       <value />
     </option>
+    <option name="PHP_STATIC_FIELD">
+      <value>
+        <option name="FOREGROUND" value="c7cf59" />
+      </value>
+    </option>
+    <option name="PHP_STATIC_METHOD">
+      <value>
+        <option name="FOREGROUND" value="c7cf59" />
+      </value>
+    </option>
     <option name="PHP_STRING">
       <value>
         <option name="FOREGROUND" value="61ce3c" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_TAG">
