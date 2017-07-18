@@ -5,9 +5,8 @@
     <option name="defaultScopeName" value="Custom" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Custom" />
+    <option name="FILE_MASK" value="*.info.yml" />
     <recentFileMasks>
-      <mask>*.strongarm*</mask>
-      <mask>page-inner*.tpl.php</mask>
       <mask>*.field_instance.inc</mask>
       <mask>*scss</mask>
       <mask>*css</mask>
@@ -25,7 +24,6 @@
       <mask>*.admin.inc</mask>
       <mask>*.variable.inc</mask>
       <mask>*.test</mask>
-      <mask>*.info</mask>
       <mask>*.install</mask>
       <mask>*.views_default.inc</mask>
       <mask>*.tile.inc</mask>
@@ -36,6 +34,9 @@
       <mask>*.api</mask>
       <mask>*.api.</mask>
       <mask>*.api.php</mask>
+      <mask>*.info</mask>
+      <mask>*.info.</mask>
+      <mask>*.info.yml</mask>
     </recentFileMasks>
   </component>
 </application>
