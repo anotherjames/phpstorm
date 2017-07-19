@@ -8,9 +8,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Custom" />
     <recentFileMasks>
-      <mask>*.field_instance.inc</mask>
-      <mask>*scss</mask>
-      <mask>*css</mask>
       <mask>*.tpl.php</mask>
       <mask>*.fieldgroup.inc</mask>
       <mask>*.field_group.inc</mask>
@@ -38,6 +35,9 @@
       <mask>*.info</mask>
       <mask>*.info.</mask>
       <mask>*.info.yml</mask>
+      <mask>*</mask>
+      <mask>*.pgp</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
