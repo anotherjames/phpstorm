@@ -3,6 +3,7 @@
     <option name="languageBreadcrumbsMap">
       <map>
         <entry key="ECMAScript 6" value="true" />
+        <entry key="SCSS" value="true" />
       </map>
     </option>
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
