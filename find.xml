@@ -6,7 +6,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Custom" />
     <recentFileMasks>
-      <mask>*.tpl.php</mask>
       <mask>*.fieldgroup.inc</mask>
       <mask>*.field_group.inc</mask>
       <mask>*.field.in</mask>
@@ -19,7 +18,6 @@
       <mask>*.admin.inc</mask>
       <mask>*.variable.inc</mask>
       <mask>*.test</mask>
-      <mask>*.install</mask>
       <mask>*.views_default.inc</mask>
       <mask>*.tile.inc</mask>
       <mask>*.scss</mask>
@@ -36,6 +34,8 @@
       <mask>*.php</mask>
       <mask>*.yml</mask>
       <mask>*.js</mask>
+      <mask>*.instal</mask>
+      <mask>*.install</mask>
     </recentFileMasks>
   </component>
 </application>

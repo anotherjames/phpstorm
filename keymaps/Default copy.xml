@@ -152,7 +152,6 @@
   <action id="ShelvedChanges.Diff">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
-  <action id="ShowIntentionActions" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
