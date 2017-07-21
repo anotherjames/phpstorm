@@ -1,12 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Custom" />
-    <option name="defaultScopeName" value="Custom" />
+    <option name="customScope" value="Core" />
+    <option name="defaultScopeName" value="Core" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Custom" />
+    <option name="SEARCH_SCOPE" value="Core" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.tpl.php</mask>
       <mask>*.fieldgroup.inc</mask>
@@ -18,7 +17,6 @@
       <mask>*.strongarm.inc</mask>
       <mask>*.module</mask>
       <mask>*.css</mask>
-      <mask>*.js</mask>
       <mask>*.admin.inc</mask>
       <mask>*.variable.inc</mask>
       <mask>*.test</mask>
@@ -38,6 +36,7 @@
       <mask>*.pgp</mask>
       <mask>*.php</mask>
       <mask>*.yml</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
