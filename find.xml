@@ -8,8 +8,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Custom" />
     <recentFileMasks>
-      <mask>*.fieldgroup.inc</mask>
-      <mask>*.field_group.inc</mask>
       <mask>*.field.in</mask>
       <mask>*.field.inc,*.info</mask>
       <mask>*.inc</mask>
@@ -22,7 +20,6 @@
       <mask>*.test</mask>
       <mask>*.views_default.inc</mask>
       <mask>*.tile.inc</mask>
-      <mask>*.scss</mask>
       <mask>*.a</mask>
       <mask>*.ap</mask>
       <mask>*.api</mask>
@@ -38,6 +35,9 @@
       <mask>*.js</mask>
       <mask>*.instal</mask>
       <mask>*.install</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
