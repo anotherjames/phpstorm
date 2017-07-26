@@ -8,12 +8,10 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Custom" />
     <recentFileMasks>
-      <mask>*.field.in</mask>
       <mask>*.field.inc,*.info</mask>
       <mask>*.inc</mask>
       <mask>*.field.inc</mask>
       <mask>*.strongarm.inc</mask>
-      <mask>*.module</mask>
       <mask>*.css</mask>
       <mask>*.admin.inc</mask>
       <mask>*.variable.inc</mask>
@@ -38,6 +36,8 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.mo</mask>
+      <mask>*.module</mask>
     </recentFileMasks>
   </component>
 </application>
