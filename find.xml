@@ -9,10 +9,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Custom" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>*.php</mask>
-      <mask>*Te.php</mask>
-      <mask>*F.php</mask>
       <mask>*For.php</mask>
       <mask>*Forma.php</mask>
       <mask>*Format.php</mask>
@@ -40,6 +38,9 @@
       <mask>*/</mask>
       <mask>*/yml</mask>
       <mask>*.yml</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
