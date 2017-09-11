@@ -1,16 +1,15 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Custom" />
+    <option name="defaultScopeName" value="Custom" />
+    <option name="localCaseSensitive" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Custom" />
     <recentFileMasks>
-      <mask>ql/*.php</mask>
-      <mask>l/*.php</mask>
-      <mask>/*.php</mask>
       <mask>*.php</mask>
       <mask>*Te.php</mask>
       <mask>*F.php</mask>
@@ -26,7 +25,6 @@
       <mask>*Test*.php</mask>
       <mask>.</mask>
       <mask>.yml</mask>
-      <mask>*.yml</mask>
       <mask>*test.</mask>
       <mask>*test</mask>
       <mask>*test*</mask>
@@ -38,6 +36,10 @@
       <mask>*Test.</mask>
       <mask>*Test.pgp</mask>
       <mask>*Test.php</mask>
+      <mask>*</mask>
+      <mask>*/</mask>
+      <mask>*/yml</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
