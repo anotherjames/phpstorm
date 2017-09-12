@@ -10,10 +10,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Custom" />
     <recentFileMasks>
-      <mask>*For.php</mask>
-      <mask>*Forma.php</mask>
-      <mask>*Format.php</mask>
-      <mask>*Formatt.php</mask>
       <mask>*Formatter.php</mask>
       <mask>*W.php</mask>
       <mask>*Wid.php</mask>
@@ -40,6 +36,10 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.t</mask>
+      <mask>*.tw</mask>
+      <mask>*.twi</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
