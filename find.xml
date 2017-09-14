@@ -6,14 +6,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Custom" />
     <recentFileMasks>
-      <mask>*/</mask>
-      <mask>*/yml</mask>
-      <mask>*.yml</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*.t</mask>
-      <mask>*.tw</mask>
       <mask>*.twi</mask>
       <mask>*.twig</mask>
       <mask>*.cs</mask>
@@ -36,6 +28,14 @@
       <mask>core.entity_form_displa*.</mask>
       <mask>core.entity_form_display*.</mask>
       <mask>core.entity_form_display*.yml</mask>
+      <mask>*</mask>
+      <mask>*sear</mask>
+      <mask>*search</mask>
+      <mask>*search_</mask>
+      <mask>*search_re</mask>
+      <mask>*search_resu</mask>
+      <mask>*search_result</mask>
+      <mask>*search_result*</mask>
     </recentFileMasks>
   </component>
 </application>
