@@ -5,10 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Custom" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>*.twi</mask>
-      <mask>*.twig</mask>
-      <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>co</mask>
       <mask>core_</mask>
@@ -28,7 +26,6 @@
       <mask>core.entity_form_displa*.</mask>
       <mask>core.entity_form_display*.</mask>
       <mask>core.entity_form_display*.yml</mask>
-      <mask>*</mask>
       <mask>*sear</mask>
       <mask>*search</mask>
       <mask>*search_</mask>
@@ -36,6 +33,10 @@
       <mask>*search_resu</mask>
       <mask>*search_result</mask>
       <mask>*search_result*</mask>
+      <mask>*</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
