@@ -5,9 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Custom" />
-    <option name="FILE_MASK" value="*.libraries.yml" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>core.entity_form_displ*.</mask>
       <mask>core.entity_form_displau*.</mask>
       <mask>core.entity_form_displa*.</mask>
       <mask>core.entity_form_display*.</mask>
@@ -19,10 +18,6 @@
       <mask>*search_resu</mask>
       <mask>*search_result</mask>
       <mask>*search_result*</mask>
-      <mask>*</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.th</mask>
       <mask>*.the</mask>
       <mask>*.yml</mask>
@@ -37,6 +32,11 @@
       <mask>*.librari</mask>
       <mask>*.libraries.</mask>
       <mask>*.libraries.yml</mask>
+      <mask>*</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
