@@ -6,7 +6,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Custom" />
     <recentFileMasks>
-      <mask>core.entity_form_displau*.</mask>
       <mask>core.entity_form_displa*.</mask>
       <mask>core.entity_form_display*.</mask>
       <mask>core.entity_form_display*.yml</mask>
@@ -36,6 +35,7 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
