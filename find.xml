@@ -1,14 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Custom" />
-    <option name="defaultScopeName" value="Custom" />
+    <option name="customScope" value="Contrib" />
+    <option name="defaultScopeName" value="Contrib" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Custom" />
+    <option name="SEARCH_SCOPE" value="Contrib" />
     <recentFileMasks>
-      <mask>*.s</mask>
-      <mask>*.yml</mask>
-      <mask>*.instal</mask>
       <mask>*.install</mask>
       <mask>f*.install</mask>
       <mask>fie*.install</mask>
@@ -36,6 +33,9 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.js</mask>
+      <mask>*.view</mask>
+      <mask>*.views.</mask>
+      <mask>*.views.inc</mask>
     </recentFileMasks>
   </component>
 </application>
