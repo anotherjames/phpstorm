@@ -6,25 +6,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.install</mask>
-      <mask>f*.install</mask>
-      <mask>fie*.install</mask>
-      <mask>field*.install</mask>
-      <mask>field.*.install</mask>
-      <mask>field.f*.install</mask>
-      <mask>field.fie*.install</mask>
-      <mask>field.field*.install</mask>
-      <mask>field.field.*.install</mask>
-      <mask>field.field.*.yml</mask>
-      <mask>*</mask>
-      <mask>*.t</mask>
-      <mask>*.theme</mask>
-      <mask>*.modu</mask>
-      <mask>*.module</mask>
-      <mask>*.tw</mask>
-      <mask>*.twi</mask>
-      <mask>*.in</mask>
-      <mask>*.inc</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
@@ -36,6 +17,25 @@
       <mask>*.view</mask>
       <mask>*.views.</mask>
       <mask>*.views.inc</mask>
+      <mask>*</mask>
+      <mask>*F</mask>
+      <mask>*For</mask>
+      <mask>*Forma</mask>
+      <mask>*Format</mask>
+      <mask>*Formatt</mask>
+      <mask>*Formatter</mask>
+      <mask>*Formatter*</mask>
+      <mask>c</mask>
+      <mask>core.</mask>
+      <mask>core.e</mask>
+      <mask>core.entity</mask>
+      <mask>core.entity*</mask>
+      <mask>W</mask>
+      <mask>Wid</mask>
+      <mask>Widg</mask>
+      <mask>Widget</mask>
+      <mask>Widget*</mask>
+      <mask>*Widget*</mask>
     </recentFileMasks>
   </component>
 </application>
