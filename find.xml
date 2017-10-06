@@ -26,8 +26,6 @@
       <mask>*.field_base.inc</mask>
       <mask>*.info</mask>
       <mask>*.ins</mask>
-      <mask>*.instal</mask>
-      <mask>*.install</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scsss</mask>
@@ -36,6 +34,8 @@
       <mask>*.view</mask>
       <mask>*.view*</mask>
       <mask>*.views*</mask>
+      <mask>*.instal</mask>
+      <mask>*.install</mask>
     </recentFileMasks>
   </component>
 </application>
