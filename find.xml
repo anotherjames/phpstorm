@@ -5,11 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.field_base.inc" />
     <recentFileMasks>
-      <mask>*Formatter</mask>
-      <mask>*Formatter*</mask>
-      <mask>c</mask>
       <mask>core.</mask>
       <mask>core.e</mask>
       <mask>core.entity</mask>
@@ -26,9 +22,7 @@
       <mask>*,scss</mask>
       <mask>*.js</mask>
       <mask>*.sc</mask>
-      <mask>*.scs</mask>
       <mask>*.css</mask>
-      <mask>*.scss</mask>
       <mask>*.inc_</mask>
       <mask>*.inc</mask>
       <mask>*</mask>
@@ -37,6 +31,11 @@
       <mask>*field_base.</mask>
       <mask>*field_base.inc</mask>
       <mask>*.field_base.inc</mask>
+      <mask>*.info</mask>
+      <mask>*.ins</mask>
+      <mask>*.install</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
