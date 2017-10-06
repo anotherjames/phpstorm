@@ -6,10 +6,6 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>core.entity</mask>
-      <mask>core.entity*</mask>
-      <mask>W</mask>
-      <mask>Wid</mask>
       <mask>Widg</mask>
       <mask>Widget</mask>
       <mask>Widget*</mask>
@@ -36,6 +32,10 @@
       <mask>*.scs</mask>
       <mask>*.scsss</mask>
       <mask>*.scss</mask>
+      <mask>*.v</mask>
+      <mask>*.view</mask>
+      <mask>*.view*</mask>
+      <mask>*.views*</mask>
     </recentFileMasks>
   </component>
 </application>
