@@ -5,8 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.install" />
     <recentFileMasks>
-      <mask>core.</mask>
       <mask>core.e</mask>
       <mask>core.entity</mask>
       <mask>core.entity*</mask>
@@ -33,9 +33,10 @@
       <mask>*.field_base.inc</mask>
       <mask>*.info</mask>
       <mask>*.ins</mask>
-      <mask>*.install</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.instal</mask>
+      <mask>*.install</mask>
     </recentFileMasks>
   </component>
 </application>
