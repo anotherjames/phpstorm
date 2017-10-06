@@ -6,11 +6,6 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*F</mask>
-      <mask>*For</mask>
-      <mask>*Forma</mask>
-      <mask>*Format</mask>
-      <mask>*Formatt</mask>
       <mask>*Formatter</mask>
       <mask>*Formatter*</mask>
       <mask>c</mask>
@@ -24,7 +19,6 @@
       <mask>Widget</mask>
       <mask>Widget*</mask>
       <mask>*Widget*</mask>
-      <mask>*</mask>
       <mask>*,s</mask>
       <mask>*,sc</mask>
       <mask>*,scs</mask>
@@ -36,6 +30,12 @@
       <mask>*.scss</mask>
       <mask>*.inc_</mask>
       <mask>*.inc</mask>
+      <mask>*</mask>
+      <mask>*field</mask>
+      <mask>*field_</mask>
+      <mask>*field_base.</mask>
+      <mask>*field_base.inc</mask>
+      <mask>*.field_base.inc</mask>
     </recentFileMasks>
   </component>
 </application>
