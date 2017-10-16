@@ -4,19 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>Widget</mask>
-      <mask>Widget*</mask>
-      <mask>*Widget*</mask>
-      <mask>*,s</mask>
-      <mask>*,sc</mask>
-      <mask>*,scs</mask>
-      <mask>*,scss</mask>
-      <mask>*.js</mask>
-      <mask>*.css</mask>
-      <mask>*.inc_</mask>
-      <mask>*.inc</mask>
-      <mask>*</mask>
-      <mask>*field</mask>
       <mask>*field_</mask>
       <mask>*field_base.</mask>
       <mask>*field_base.inc</mask>
@@ -34,6 +21,19 @@
       <mask>*.install</mask>
       <mask>*.info</mask>
       <mask>*.module</mask>
+      <mask>A</mask>
+      <mask>Ac</mask>
+      <mask>Acce</mask>
+      <mask>Acces</mask>
+      <mask>Access</mask>
+      <mask>*Access</mask>
+      <mask>*AccessC</mask>
+      <mask>*AccessCh</mask>
+      <mask>*AccessCheck</mask>
+      <mask>*AccessCheck.</mask>
+      <mask>*AccessCheck.p</mask>
+      <mask>*AccessCheck.ph</mask>
+      <mask>*AccessCheck.php</mask>
     </recentFileMasks>
   </component>
 </application>
