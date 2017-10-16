@@ -3,14 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.routing.yml" />
     <recentFileMasks>
-      <mask>*field_</mask>
-      <mask>*field_base.</mask>
-      <mask>*field_base.inc</mask>
-      <mask>*.field_base.inc</mask>
-      <mask>*.ins</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
       <mask>*.scsss</mask>
       <mask>*.scss</mask>
       <mask>*.v</mask>
@@ -34,6 +28,13 @@
       <mask>*AccessCheck.p</mask>
       <mask>*AccessCheck.ph</mask>
       <mask>*AccessCheck.php</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.r</mask>
+      <mask>*.rout</mask>
+      <mask>*.routing</mask>
+      <mask>*.routing.</mask>
+      <mask>*.routing.yml</mask>
     </recentFileMasks>
   </component>
 </application>
