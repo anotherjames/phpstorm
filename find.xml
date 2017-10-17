@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Contrib" />
-    <option name="defaultScopeName" value="Contrib" />
-    <option name="SEARCH_SCOPE" value="Contrib" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.info</mask>
       <mask>*.module</mask>
