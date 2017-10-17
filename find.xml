@@ -4,10 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.view</mask>
-      <mask>*.view*</mask>
-      <mask>*.views*</mask>
-      <mask>*.instal</mask>
       <mask>*.install</mask>
       <mask>*.info</mask>
       <mask>*.module</mask>
@@ -34,6 +30,10 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.v</mask>
+      <mask>*.view</mask>
+      <mask>*.views.</mask>
+      <mask>*.views.inc</mask>
     </recentFileMasks>
   </component>
 </application>
