@@ -4,9 +4,6 @@
     <option name="defaultScopeName" value="Custom" />
     <option name="SEARCH_SCOPE" value="Custom" />
     <recentFileMasks>
-      <mask>*.scsss</mask>
-      <mask>*.scss</mask>
-      <mask>*.v</mask>
       <mask>*.view</mask>
       <mask>*.view*</mask>
       <mask>*.views*</mask>
@@ -34,6 +31,9 @@
       <mask>*.routing</mask>
       <mask>*.routing.</mask>
       <mask>*.routing.yml</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
