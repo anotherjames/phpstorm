@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Contrib" />
+    <option name="defaultScopeName" value="Contrib" />
+    <option name="SEARCH_SCOPE" value="Contrib" />
     <recentFileMasks>
-      <mask>*.install</mask>
       <mask>*.info</mask>
       <mask>*.module</mask>
       <mask>A</mask>
@@ -34,6 +33,7 @@
       <mask>*.view</mask>
       <mask>*.views.</mask>
       <mask>*.views.inc</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
