@@ -28,14 +28,14 @@
       <mask>*.routing</mask>
       <mask>*.routing.</mask>
       <mask>*.routing.yml</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.v</mask>
       <mask>*.view</mask>
       <mask>*.views.</mask>
       <mask>*.views.inc</mask>
       <mask>*.js</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
