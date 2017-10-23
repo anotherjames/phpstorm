@@ -1,17 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Custom" />
-    <option name="defaultScopeName" value="Custom" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Custom" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.info</mask>
-      <mask>*.module</mask>
-      <mask>A</mask>
-      <mask>Ac</mask>
       <mask>Acce</mask>
       <mask>Acces</mask>
       <mask>Access</mask>
@@ -38,6 +32,10 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.js</mask>
+      <mask>M</mask>
+      <mask>Map(</mask>
+      <mask>Map</mask>
+      <mask>Map*</mask>
     </recentFileMasks>
   </component>
 </application>
