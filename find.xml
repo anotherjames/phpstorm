@@ -17,7 +17,6 @@
       <mask>*AccessCheck.p</mask>
       <mask>*AccessCheck.ph</mask>
       <mask>*AccessCheck.php</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.r</mask>
       <mask>*.rout</mask>
@@ -29,13 +28,14 @@
       <mask>*.views.</mask>
       <mask>*.views.inc</mask>
       <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.js</mask>
       <mask>M</mask>
       <mask>Map(</mask>
       <mask>Map</mask>
       <mask>Map*</mask>
+      <mask>*</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
