@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Core" />
-    <option name="defaultScopeName" value="Core" />
-    <option name="SEARCH_SCOPE" value="Core" />
+    <option name="customScope" value="Custom" />
+    <option name="defaultScopeName" value="Custom" />
+    <option name="SEARCH_SCOPE" value="Custom" />
     <recentFileMasks>
       <mask>Acce</mask>
       <mask>Acces</mask>
