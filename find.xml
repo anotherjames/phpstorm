@@ -1,14 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Contrib" />
-    <option name="defaultScopeName" value="Contrib" />
-    <option name="SEARCH_SCOPE" value="Contrib" />
+    <option name="customScope" value="Custom" />
+    <option name="defaultScopeName" value="Custom" />
+    <option name="SEARCH_SCOPE" value="Custom" />
+    <option name="FILE_MASK" value="*.features.inc" />
     <recentFileMasks>
-      <mask>Acce</mask>
-      <mask>Acces</mask>
-      <mask>Access</mask>
-      <mask>*Access</mask>
-      <mask>*AccessC</mask>
       <mask>*AccessCh</mask>
       <mask>*AccessCheck</mask>
       <mask>*AccessCheck.</mask>
@@ -34,6 +30,11 @@
       <mask>*</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.f</mask>
+      <mask>*.feature</mask>
+      <mask>*.features.</mask>
+      <mask>*.feature.inc</mask>
+      <mask>*.features.inc</mask>
     </recentFileMasks>
   </component>
 </application>
