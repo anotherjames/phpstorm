@@ -3,6 +3,7 @@
     <option name="customScope" value="Custom" />
     <option name="defaultScopeName" value="Custom" />
     <option name="SEARCH_SCOPE" value="Custom" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.rout</mask>
       <mask>*.routing</mask>
@@ -12,15 +13,12 @@
       <mask>*.view</mask>
       <mask>*.views.</mask>
       <mask>*.views.inc</mask>
-      <mask>*.sc</mask>
       <mask>*.js</mask>
       <mask>M</mask>
       <mask>Map(</mask>
       <mask>Map</mask>
       <mask>Map*</mask>
       <mask>*</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.f</mask>
       <mask>*.feature</mask>
       <mask>*.features.</mask>
@@ -34,6 +32,9 @@
       <mask>*.c</mask>
       <mask>*.clas</mask>
       <mask>*.class</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
