@@ -3,15 +3,8 @@
     <option name="customScope" value="Custom" />
     <option name="defaultScopeName" value="Custom" />
     <option name="SEARCH_SCOPE" value="Custom" />
+    <option name="FILE_MASK" value="*.class" />
     <recentFileMasks>
-      <mask>*AccessCh</mask>
-      <mask>*AccessCheck</mask>
-      <mask>*AccessCheck.</mask>
-      <mask>*AccessCheck.p</mask>
-      <mask>*AccessCheck.ph</mask>
-      <mask>*AccessCheck.php</mask>
-      <mask>*.</mask>
-      <mask>*.r</mask>
       <mask>*.rout</mask>
       <mask>*.routing</mask>
       <mask>*.routing.</mask>
@@ -34,6 +27,14 @@
       <mask>*.features.</mask>
       <mask>*.feature.inc</mask>
       <mask>*.features.inc</mask>
+      <mask>*.inc</mask>
+      <mask>*.php</mask>
+      <mask>*.</mask>
+      <mask>*.modul</mask>
+      <mask>*.module</mask>
+      <mask>*.c</mask>
+      <mask>*.clas</mask>
+      <mask>*.class</mask>
     </recentFileMasks>
   </component>
 </application>
