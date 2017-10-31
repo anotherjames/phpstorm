@@ -1,13 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Custom" />
-    <option name="defaultScopeName" value="Custom" />
+    <option name="customScope" value="Core" />
+    <option name="defaultScopeName" value="Core" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Custom" />
-    <option name="FILE_MASK" value="core.*view*" />
+    <option name="SEARCH_SCOPE" value="Core" />
     <recentFileMasks>
-      <mask>*.f</mask>
       <mask>*.feature</mask>
       <mask>*.features.</mask>
       <mask>*.feature.inc</mask>
@@ -21,8 +19,6 @@
       <mask>*.clas</mask>
       <mask>*.class</mask>
       <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.instal</mask>
       <mask>*.install</mask>
       <mask>c</mask>
@@ -37,6 +33,9 @@
       <mask>core.*view.</mask>
       <mask>core.*view.*</mask>
       <mask>core.*view*</mask>
+      <mask>*</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
