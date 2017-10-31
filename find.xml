@@ -1,11 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Core" />
-    <option name="defaultScopeName" value="Core" />
-    <option name="SEARCH_SCOPE" value="Core" />
+    <option name="customScope" value="Custom" />
+    <option name="defaultScopeName" value="Custom" />
+    <option name="SEARCH_SCOPE" value="Custom" />
     <recentFileMasks>
-      <mask>*.rout</mask>
-      <mask>*.routing</mask>
       <mask>*.routing.</mask>
       <mask>*.routing.yml</mask>
       <mask>*.v</mask>
@@ -34,6 +32,8 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.instal</mask>
+      <mask>*.install</mask>
     </recentFileMasks>
   </component>
 </application>
