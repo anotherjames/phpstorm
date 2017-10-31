@@ -5,19 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Custom" />
+    <option name="FILE_MASK" value="core.*view*" />
     <recentFileMasks>
-      <mask>*.routing.</mask>
-      <mask>*.routing.yml</mask>
-      <mask>*.v</mask>
-      <mask>*.view</mask>
-      <mask>*.views.</mask>
-      <mask>*.views.inc</mask>
-      <mask>*.js</mask>
-      <mask>M</mask>
-      <mask>Map(</mask>
-      <mask>Map</mask>
-      <mask>Map*</mask>
-      <mask>*</mask>
       <mask>*.f</mask>
       <mask>*.feature</mask>
       <mask>*.features.</mask>
@@ -36,6 +25,18 @@
       <mask>*.scss</mask>
       <mask>*.instal</mask>
       <mask>*.install</mask>
+      <mask>c</mask>
+      <mask>co</mask>
+      <mask>core</mask>
+      <mask>core.</mask>
+      <mask>core.*</mask>
+      <mask>core.*.</mask>
+      <mask>core.*.v</mask>
+      <mask>core.*.view</mask>
+      <mask>core.*view</mask>
+      <mask>core.*view.</mask>
+      <mask>core.*view.*</mask>
+      <mask>core.*view*</mask>
     </recentFileMasks>
   </component>
 </application>
