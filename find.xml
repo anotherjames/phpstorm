@@ -1,18 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Custom" />
-    <option name="defaultScopeName" value="Custom" />
+    <option name="customScope" value="Contrib" />
+    <option name="defaultScopeName" value="Contrib" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Custom" />
-    <option name="FILE_MASK" value="*.install" />
+    <option name="SEARCH_SCOPE" value="Contrib" />
+    <option name="FILE_MASK" value="*filter*.inc" />
     <recentFileMasks>
-      <mask>c</mask>
-      <mask>co</mask>
-      <mask>core</mask>
-      <mask>core.</mask>
-      <mask>core.*</mask>
-      <mask>core.*.</mask>
       <mask>core.*.v</mask>
       <mask>core.*.view</mask>
       <mask>core.*view</mask>
@@ -26,17 +20,23 @@
       <mask>*.t</mask>
       <mask>*.theme</mask>
       <mask>*.in</mask>
-      <mask>*.inc</mask>
-      <mask>*.vinc</mask>
       <mask>*.variinc</mask>
       <mask>*.variabinc</mask>
       <mask>*.variablinc</mask>
       <mask>*.variableinc</mask>
       <mask>*.variable.inc</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.instal</mask>
       <mask>*.install</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.inc</mask>
+      <mask>*.vinc</mask>
+      <mask>*.viewsinc</mask>
+      <mask>*.views.inc</mask>
+      <mask>*f.inc</mask>
+      <mask>*filt.inc</mask>
+      <mask>*filter.inc</mask>
+      <mask>*filter*.inc</mask>
     </recentFileMasks>
   </component>
 </application>
