@@ -5,7 +5,6 @@
     <option name="defaultScopeName" value="Contrib" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Contrib" />
-    <option name="FILE_MASK" value="*filter*.inc" />
     <recentFileMasks>
       <mask>core.*.v</mask>
       <mask>core.*.view</mask>
