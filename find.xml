@@ -1,18 +1,16 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.inc" />
+    <option name="customScope" value="Custom" />
+    <option name="defaultScopeName" value="Custom" />
+    <option name="SEARCH_SCOPE" value="Custom" />
+    <option name="FILE_MASK" value="*.info" />
     <recentFileMasks>
-      <mask>core.*view.*</mask>
       <mask>core.*view*</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.php</mask>
       <mask>*.t</mask>
       <mask>*.theme</mask>
-      <mask>*.in</mask>
       <mask>*.variinc</mask>
       <mask>*.variabinc</mask>
       <mask>*.variablinc</mask>
@@ -35,6 +33,8 @@
       <mask>*.mo</mask>
       <mask>*.module</mask>
       <mask>*.inc</mask>
+      <mask>*.in</mask>
+      <mask>*.info</mask>
     </recentFileMasks>
   </component>
 </application>
