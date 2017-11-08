@@ -1,21 +1,15 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.inc" />
     <recentFileMasks>
-      <mask>core.*.v</mask>
-      <mask>core.*.view</mask>
-      <mask>core.*view</mask>
-      <mask>core.*view.</mask>
       <mask>core.*view.*</mask>
       <mask>core.*view*</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.php</mask>
-      <mask>*.module</mask>
       <mask>*.t</mask>
       <mask>*.theme</mask>
       <mask>*.in</mask>
@@ -26,9 +20,6 @@
       <mask>*.variable.inc</mask>
       <mask>*.instal</mask>
       <mask>*.install</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.inc</mask>
       <mask>*.vinc</mask>
       <mask>*.viewsinc</mask>
       <mask>*.views.inc</mask>
@@ -36,6 +27,14 @@
       <mask>*filt.inc</mask>
       <mask>*filter.inc</mask>
       <mask>*filter*.inc</mask>
+      <mask>*.instance.</mask>
+      <mask>*.instance.inc</mask>
+      <mask>*instance.inc</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.mo</mask>
+      <mask>*.module</mask>
+      <mask>*.inc</mask>
     </recentFileMasks>
   </component>
 </application>
