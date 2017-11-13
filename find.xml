@@ -1,20 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Custom" />
-    <option name="defaultScopeName" value="Custom" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Custom" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.theme</mask>
-      <mask>*.variinc</mask>
-      <mask>*.variabinc</mask>
-      <mask>*.variablinc</mask>
-      <mask>*.variableinc</mask>
-      <mask>*.variable.inc</mask>
-      <mask>*.vinc</mask>
       <mask>*.viewsinc</mask>
       <mask>*.views.inc</mask>
       <mask>*f.inc</mask>
@@ -38,6 +31,13 @@
       <mask>*.install</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>core.</mask>
+      <mask>core.e</mask>
+      <mask>core.entity</mask>
+      <mask>core.entity_</mask>
+      <mask>core.entity_view.</mask>
+      <mask>core.entity_view.*</mask>
+      <mask>core.entity_view*</mask>
     </recentFileMasks>
   </component>
 </application>
