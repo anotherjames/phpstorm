@@ -7,10 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Custom" />
-    <option name="FILE_MASK" value="*.install" />
     <recentFileMasks>
-      <mask>*.instance.inc</mask>
-      <mask>*instance.inc</mask>
       <mask>*</mask>
       <mask>*.mo</mask>
       <mask>*.module</mask>
@@ -39,6 +36,8 @@
       <mask>*.insta</mask>
       <mask>*.instal</mask>
       <mask>*.install</mask>
+      <mask>*.installyml</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
