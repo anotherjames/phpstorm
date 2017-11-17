@@ -7,20 +7,16 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Custom" />
+    <option name="FILE_MASK" value="*.install" />
     <recentFileMasks>
-      <mask>*filter*.inc</mask>
-      <mask>*.instance.</mask>
       <mask>*.instance.inc</mask>
       <mask>*instance.inc</mask>
       <mask>*</mask>
       <mask>*.mo</mask>
       <mask>*.module</mask>
       <mask>*.inc</mask>
-      <mask>*.in</mask>
       <mask>*.css</mask>
       <mask>*scss</mask>
-      <mask>*.instal</mask>
-      <mask>*.install</mask>
       <mask>core.</mask>
       <mask>core.e</mask>
       <mask>core.entity</mask>
@@ -32,12 +28,17 @@
       <mask>*js</mask>
       <mask>*.js</mask>
       <mask>*.om</mask>
-      <mask>*.o</mask>
-      <mask>*.</mask>
       <mask>*.info</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.o</mask>
+      <mask>*.</mask>
+      <mask>*.i</mask>
+      <mask>*.in</mask>
+      <mask>*.insta</mask>
+      <mask>*.instal</mask>
+      <mask>*.install</mask>
     </recentFileMasks>
   </component>
 </application>
