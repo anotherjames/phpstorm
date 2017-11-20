@@ -24,9 +24,6 @@
       <mask>*.js</mask>
       <mask>*.om</mask>
       <mask>*.info</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.o</mask>
       <mask>*.</mask>
       <mask>*.i</mask>
@@ -36,6 +33,9 @@
       <mask>*.install</mask>
       <mask>*.installyml</mask>
       <mask>*.yml</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
