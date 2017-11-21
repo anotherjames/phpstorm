@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Custom" />
-    <option name="defaultScopeName" value="Custom" />
-    <option name="SEARCH_SCOPE" value="Custom" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.install" />
     <recentFileMasks>
       <mask>*</mask>
       <mask>*.mo</mask>
@@ -27,13 +28,13 @@
       <mask>*.i</mask>
       <mask>*.in</mask>
       <mask>*.insta</mask>
-      <mask>*.instal</mask>
-      <mask>*.install</mask>
       <mask>*.installyml</mask>
       <mask>*.yml</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.instal</mask>
+      <mask>*.install</mask>
     </recentFileMasks>
   </component>
 </application>
