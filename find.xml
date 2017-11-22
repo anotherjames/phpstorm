@@ -1,16 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Custom" />
     <option name="defaultScopeName" value="Custom" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Custom" />
     <recentFileMasks>
-      <mask>*</mask>
-      <mask>*.mo</mask>
-      <mask>*.module</mask>
-      <mask>*.inc</mask>
-      <mask>*.css</mask>
-      <mask>*scss</mask>
-      <mask>core.</mask>
       <mask>core.e</mask>
       <mask>core.entity</mask>
       <mask>core.entity_</mask>
@@ -34,6 +29,13 @@
       <mask>*.scss</mask>
       <mask>*.instal</mask>
       <mask>*.install</mask>
+      <mask>*.inc</mask>
+      <mask>*field.inc</mask>
+      <mask>*field_.inc</mask>
+      <mask>*field_isntance.inc</mask>
+      <mask>*field_intance.inc</mask>
+      <mask>*field_instance.inc</mask>
+      <mask>*field_base.inc</mask>
     </recentFileMasks>
   </component>
 </application>
