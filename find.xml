@@ -6,7 +6,6 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Custom" />
     <recentFileMasks>
-      <mask>core.e</mask>
       <mask>core.entity</mask>
       <mask>core.entity_</mask>
       <mask>core.entity_view.</mask>
@@ -16,11 +15,9 @@
       <mask>*js</mask>
       <mask>*.js</mask>
       <mask>*.om</mask>
-      <mask>*.info</mask>
       <mask>*.o</mask>
       <mask>*.</mask>
       <mask>*.i</mask>
-      <mask>*.in</mask>
       <mask>*.insta</mask>
       <mask>*.installyml</mask>
       <mask>*.yml</mask>
@@ -36,6 +33,9 @@
       <mask>*field_intance.inc</mask>
       <mask>*field_instance.inc</mask>
       <mask>*field_base.inc</mask>
+      <mask>*</mask>
+      <mask>*.in</mask>
+      <mask>*.info</mask>
     </recentFileMasks>
   </component>
 </application>
