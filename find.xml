@@ -3,6 +3,7 @@
     <option name="customScope" value="Custom" />
     <option name="defaultScopeName" value="Custom" />
     <option name="SEARCH_SCOPE" value="Custom" />
+    <option name="FILE_MASK" value="*.install" />
     <recentFileMasks>
       <mask>core.entity</mask>
       <mask>core.entity_</mask>
@@ -22,8 +23,6 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.instal</mask>
-      <mask>*.install</mask>
       <mask>*.inc</mask>
       <mask>*field.inc</mask>
       <mask>*field_.inc</mask>
@@ -31,9 +30,11 @@
       <mask>*field_intance.inc</mask>
       <mask>*field_instance.inc</mask>
       <mask>*field_base.inc</mask>
-      <mask>*</mask>
       <mask>*.in</mask>
       <mask>*.info</mask>
+      <mask>*</mask>
+      <mask>*.instal</mask>
+      <mask>*.install</mask>
     </recentFileMasks>
   </component>
 </application>
