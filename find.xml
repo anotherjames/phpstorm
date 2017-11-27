@@ -18,7 +18,6 @@
       <mask>*.i</mask>
       <mask>*.insta</mask>
       <mask>*.installyml</mask>
-      <mask>*.inc</mask>
       <mask>*field.inc</mask>
       <mask>*field_.inc</mask>
       <mask>*field_isntance.inc</mask>
@@ -36,6 +35,7 @@
       <mask>*.css</mask>
       <mask>*.scss</mask>
       <mask>*.yml</mask>
+      <mask>*.inc</mask>
     </recentFileMasks>
   </component>
 </application>
