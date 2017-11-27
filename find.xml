@@ -27,8 +27,6 @@
       <mask>*.in</mask>
       <mask>*.info</mask>
       <mask>*</mask>
-      <mask>*.instal</mask>
-      <mask>*.install</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
@@ -36,6 +34,8 @@
       <mask>*.scss</mask>
       <mask>*.yml</mask>
       <mask>*.inc</mask>
+      <mask>*.instal</mask>
+      <mask>*.install</mask>
     </recentFileMasks>
   </component>
 </application>
