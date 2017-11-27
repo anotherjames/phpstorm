@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Custom" />
-    <option name="defaultScopeName" value="Custom" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Custom" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>core.entity_view.</mask>
       <mask>core.entity_view.*</mask>
@@ -18,7 +19,6 @@
       <mask>*.i</mask>
       <mask>*.insta</mask>
       <mask>*.installyml</mask>
-      <mask>*.yml</mask>
       <mask>*.inc</mask>
       <mask>*field.inc</mask>
       <mask>*field_.inc</mask>
@@ -36,6 +36,7 @@
       <mask>*.scs</mask>
       <mask>*.css</mask>
       <mask>*.scss</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
