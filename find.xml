@@ -3,8 +3,8 @@
     <option name="customScope" value="Custom" />
     <option name="defaultScopeName" value="Custom" />
     <option name="SEARCH_SCOPE" value="Custom" />
+    <option name="FILE_MASK" value="*.info" />
     <recentFileMasks>
-      <mask>core.entity_view.*</mask>
       <mask>core.entity_view*</mask>
       <mask>js</mask>
       <mask>*js</mask>
@@ -21,7 +21,6 @@
       <mask>*field_instance.inc</mask>
       <mask>*field_base.inc</mask>
       <mask>*.in</mask>
-      <mask>*.info</mask>
       <mask>*</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
@@ -34,6 +33,8 @@
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.js</mask>
+      <mask>*.inf</mask>
+      <mask>*.info</mask>
     </recentFileMasks>
   </component>
 </application>
