@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Custom" />
+    <option name="FILE_MASK" value="*.info" />
     <recentFileMasks>
       <mask>core.entity_view*</mask>
       <mask>js</mask>
@@ -21,7 +22,6 @@
       <mask>*field_intance.inc</mask>
       <mask>*field_instance.inc</mask>
       <mask>*field_base.inc</mask>
-      <mask>*.in</mask>
       <mask>*</mask>
       <mask>*.s</mask>
       <mask>*.yml</mask>
@@ -32,10 +32,11 @@
       <mask>*.css</mask>
       <mask>*.js</mask>
       <mask>*.inf</mask>
-      <mask>*.info</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.in</mask>
+      <mask>*.info</mask>
     </recentFileMasks>
   </component>
 </application>
