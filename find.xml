@@ -29,13 +29,13 @@
       <mask>*.install</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
-      <mask>*.js</mask>
       <mask>*.inf</mask>
       <mask>*.in</mask>
       <mask>*.info</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
