@@ -25,7 +25,6 @@
       <mask>*field_base.inc</mask>
       <mask>*</mask>
       <mask>*.s</mask>
-      <mask>*.yml</mask>
       <mask>*.inc</mask>
       <mask>*.instal</mask>
       <mask>*.install</mask>
@@ -38,6 +37,7 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.js</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
