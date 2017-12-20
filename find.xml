@@ -35,9 +35,9 @@
       <mask>*.in</mask>
       <mask>*.info</mask>
       <mask>*.sc</mask>
-      <mask>*.js</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
