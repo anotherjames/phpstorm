@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Custom" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>core.entity_view*</mask>
       <mask>js</mask>
@@ -34,10 +35,10 @@
       <mask>*.in</mask>
       <mask>*.js</mask>
       <mask>*.yml</mask>
+      <mask>*.info</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.info</mask>
     </recentFileMasks>
   </component>
 </application>
