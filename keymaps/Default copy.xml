@@ -16,6 +16,7 @@
     <keyboard-shortcut first-keystroke="meta alt z" />
     <keyboard-shortcut first-keystroke="ctrl meta alt v" />
   </action>
+  <action id="ChangesView.ShelveSilently" />
   <action id="ChangesView.UnshelveSilently" />
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="meta alt w" />
@@ -121,6 +122,7 @@
     <keyboard-shortcut first-keystroke="meta o" />
   </action>
   <action id="PasteMultiple" />
+  <action id="PopupHector" />
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="shift alt tab" />
     <keyboard-shortcut first-keystroke="shift ctrl meta tab" />
