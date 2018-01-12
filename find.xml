@@ -1,24 +1,21 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Custom" />
-    <option name="defaultScopeName" value="Custom" />
+    <option name="customScope" value="Contrib" />
+    <option name="defaultScopeName" value="Contrib" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Custom" />
+    <option name="SEARCH_SCOPE" value="Contrib" />
+    <option name="FILE_MASK" value="*.info" />
     <recentFileMasks>
-      <mask>*.instal</mask>
-      <mask>*.install</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.inf</mask>
-      <mask>*.in</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.js</mask>
-      <mask>*.info</mask>
       <mask>*.yml</mask>
       <mask>no*.yml</mask>
       <mask>no.*.yml</mask>
@@ -38,6 +35,10 @@
       <mask>field.field.term.*.yml</mask>
       <mask>field.field..*.yml</mask>
       <mask>field.field.*.yml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.in</mask>
+      <mask>*.info</mask>
     </recentFileMasks>
   </component>
 </application>
