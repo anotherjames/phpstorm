@@ -3,14 +3,12 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="Custom" />
     <option name="defaultScopeName" value="Custom" />
-    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Custom" />
+    <option name="FILE_MASK" value="*.module" />
     <recentFileMasks>
-      <mask>node.*.yml</mask>
       <mask>f.*.yml</mask>
       <mask>fie.*.yml</mask>
       <mask>field.*.yml</mask>
@@ -40,6 +38,7 @@
       <mask>*.</mask>
       <mask>*.info</mask>
       <mask>*.install</mask>
+      <mask>*.module</mask>
     </recentFileMasks>
   </component>
 </application>
