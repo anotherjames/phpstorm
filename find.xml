@@ -7,6 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Custom" />
+    <option name="FILE_MASK" value="*.install" />
     <recentFileMasks>
       <mask>node.*.yml</mask>
       <mask>f.*.yml</mask>
@@ -27,7 +28,6 @@
       <mask>*</mask>
       <mask>*.in</mask>
       <mask>*.instal</mask>
-      <mask>*.install</mask>
       <mask>*.fi</mask>
       <mask>*.fiel</mask>
       <mask>*.field</mask>
@@ -38,6 +38,7 @@
       <mask>*.field_instas</mask>
       <mask>*.</mask>
       <mask>*.info</mask>
+      <mask>*.install</mask>
     </recentFileMasks>
   </component>
 </application>
