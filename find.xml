@@ -1,13 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Custom" />
-    <option name="defaultScopeName" value="Custom" />
+    <option name="customScope" value="Contrib" />
+    <option name="defaultScopeName" value="Contrib" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Custom" />
-    <option name="FILE_MASK" value="*.install" />
+    <option name="SEARCH_SCOPE" value="Contrib" />
     <recentFileMasks>
-      <mask>f.*.yml</mask>
       <mask>fie.*.yml</mask>
       <mask>field.*.yml</mask>
       <mask>field.fi*.yml</mask>
@@ -37,6 +35,7 @@
       <mask>*.info</mask>
       <mask>*.module</mask>
       <mask>*.install</mask>
+      <mask>*rules*</mask>
     </recentFileMasks>
   </component>
 </application>
