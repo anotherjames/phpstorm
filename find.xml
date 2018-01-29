@@ -35,9 +35,9 @@
       <mask>*.field_instas</mask>
       <mask>*.</mask>
       <mask>*.module</mask>
-      <mask>*.install</mask>
       <mask>*rules*</mask>
       <mask>*.info</mask>
+      <mask>*.install</mask>
     </recentFileMasks>
   </component>
 </application>
