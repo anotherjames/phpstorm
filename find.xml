@@ -5,7 +5,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.info" />
     <recentFileMasks>
       <mask>field.*.yml</mask>
       <mask>field.fi*.yml</mask>
