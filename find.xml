@@ -7,9 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Custom" />
-    <option name="FILE_MASK" value="*.info" />
+    <option name="FILE_MASK" value="*.features.inc" />
     <recentFileMasks>
-      <mask>field.*.yml</mask>
       <mask>field.fi*.yml</mask>
       <mask>field.fiel*.yml</mask>
       <mask>field.field*.yml</mask>
@@ -39,6 +38,7 @@
       <mask>*.scss</mask>
       <mask>*.install</mask>
       <mask>*.info</mask>
+      <mask>*.features.inc</mask>
     </recentFileMasks>
   </component>
 </application>
