@@ -5,8 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="iap*.install" />
     <recentFileMasks>
-      <mask>field.fi*.yml</mask>
       <mask>field.fiel*.yml</mask>
       <mask>field.field*.yml</mask>
       <mask>field.field.node*.yml</mask>
@@ -36,6 +36,7 @@
       <mask>*.info</mask>
       <mask>*.features.inc</mask>
       <mask>*.scss</mask>
+      <mask>iap*.install</mask>
     </recentFileMasks>
   </component>
 </application>
