@@ -33,9 +33,9 @@
       <mask>*rules*</mask>
       <mask>*.install</mask>
       <mask>*.info</mask>
-      <mask>*.features.inc</mask>
       <mask>*.scss</mask>
       <mask>iap*.install</mask>
+      <mask>*.features.inc</mask>
     </recentFileMasks>
   </component>
 </application>
