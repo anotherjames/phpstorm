@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Contrib" />
-    <option name="defaultScopeName" value="Contrib" />
-    <option name="SEARCH_SCOPE" value="Contrib" />
+    <option name="customScope" value="Custom" />
+    <option name="defaultScopeName" value="Custom" />
+    <option name="SEARCH_SCOPE" value="Custom" />
     <recentFileMasks>
       <mask>field.fiel*.yml</mask>
       <mask>field.field*.yml</mask>
